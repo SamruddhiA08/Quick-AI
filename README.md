@@ -44,9 +44,6 @@ Database: PostgreSQL (Neon)
 AI: OpenAI APIs
 Hosting: Vercel
 
-📸 Screenshots
-
-Add UI images here for better engagement (optional but recommended)
 
 📦 Installation & Setup
 # Clone the repository
